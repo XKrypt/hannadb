@@ -1,0 +1,9 @@
+﻿  hannadb.cpp
+C:\Users\rapha\source\repos\hannadb\hannadb\parser.hpp(30,1): error C2676: '[' binário : 'std::list<std::string,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>' não define este operador ou uma conversão para um tipo aceitável ao operador pré-definido
+C:\Users\rapha\source\repos\hannadb\hannadb\hannadb.cpp(10,54): error C2440: 'inicializando': não é possível converter de 'void' para 'Condition'
+C:\Users\rapha\source\repos\hannadb\hannadb\hannadb.cpp(10,25): message : Expressões de tipo void não podem ser convertidas para outros tipos
+C:\Users\rapha\source\repos\hannadb\hannadb\hannadb.cpp(15,12): warning C4834: descartando o valor retornado da função com o atributo 'nodiscard'
+C:\Users\rapha\source\repos\hannadb\hannadb\hannadb.cpp(8): fatal  error C1075: '{': nenhum token correspondente encontrado
+  parser.hpp
+C:\Users\rapha\source\repos\hannadb\hannadb\parser.hpp(30,1): error C2676: '[' binário : 'std::list<std::string,std::allocator<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>' não define este operador ou uma conversão para um tipo aceitável ao operador pré-definido
+  Gerando Código...
